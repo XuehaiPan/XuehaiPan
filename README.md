@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </table>
 
 <div align=center>
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=XuehaiPan&theme=react-dark&bg_color=20232A">
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=XuehaiPan&theme=react-dark&bg_color=20232A">
 </div>
