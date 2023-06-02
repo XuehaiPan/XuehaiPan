@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
     <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=XuehaiPan&theme=react&bg_color=20232A"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuehaiPan&langs_count=10?hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuehaiPan&langs_count=8&hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
   </tr>
 </table>
-
-<div align=center>
-  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=XuehaiPan&theme=react-dark&bg_color=20232A">
-</div>
