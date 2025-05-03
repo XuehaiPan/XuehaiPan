@@ -27,13 +27,9 @@ The ultimate goal is to build a scalable and fully automated system, including t
 Beyond academia, Xuehai is an open-source enthusiast and an active contributor to influential projects such as [PyTorch](https://github.com/pytorch/pytorch), [CPython](https://github.com/python/cpython), [Ray](https://github.com/ray-project/ray), [Transformers](https://github.com/huggingface/transformers), [DeepSpeed](https://github.com/microsoft/deepspeed), [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (formerly [OpenAI Gym](https://github.com/openai/gym)), [PyBind11](https://github.com/pybind/pybind11) (C++ bindings for Python), [PyO3](https://github.com/PyO3/pyo3) (Rust bindings for Python), [Conda](https://github.com/conda/conda), [Homebrew](https://github.com/Homebrew/brew), etc.
 He enjoys dedicating his spare time to helping people and sharing knowledge in the community, further enriching his impact beyond his research pursuits.
 
-<div align=center>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=XuehaiPan&show_icons=true&include_all_commits=true&show=reviews&count_private=true&theme=react&bg_color=20232A">
-</div>
-
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
-    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=XuehaiPan&theme=react&bg_color=20232A"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuehaiPan&langs_count=8&hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
+    <td width="60%"><img src="https://github-readme-stats.vercel.app/api?username=XuehaiPan&show_icons=true&include_all_commits=true&show=reviews&count_private=true&theme=react&bg_color=20232A"></td>
+    <td width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuehaiPan&langs_count=8&hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
   </tr>
 </table>
