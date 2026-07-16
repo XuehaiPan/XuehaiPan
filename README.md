@@ -29,7 +29,7 @@ He enjoys dedicating his spare time to helping people and sharing knowledge in t
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
-    <td width="60%"><img src="https://github-readme-stats.vercel.app/api?username=XuehaiPan&show_icons=true&include_all_commits=true&show=reviews&count_private=true&theme=react&bg_color=20232A"></td>
-    <td width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuehaiPan&langs_count=8&hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
+    <td width="60%"><img src="https://github-stats-extended.vercel.app/api?username=XuehaiPan&show_icons=true&include_all_commits=true&show=reviews&count_private=true&theme=react&bg_color=20232A"></td>
+    <td width="40%"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=XuehaiPan&langs_count=8&hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
   </tr>
 </table>
